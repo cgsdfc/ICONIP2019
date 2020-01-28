@@ -15,7 +15,7 @@ artifacts:
     name: Paper
 deploy:
   - provider: GitHub
-    description: The newly compiled paper in PDF format.
+    description: New PDF made by Miktex
     auth_token:
       secure: AxKyd9x91aD6ZpLtvmw8iQvR1LkvduvZUcJbU2zqwbWXBBr2SI/cr4jod8SIQHmB
     repository: cgsdfc/ICONIP2019
